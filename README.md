@@ -1,6 +1,6 @@
-# VIPER Coding Challenge base application
+# Smart Cyber Security Insurance
 
-This app is meant to provide a web application that is going to be used for VIPER Coding Challenge
+This app is meant to provide a web application that is going to be used for managing the Ethereun Blockchain
 
 ## Available Scripts
 In this directory, you can run
