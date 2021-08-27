@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  label {
+    cursor: default;
+    float: left;
+    width: 140px;
+    color: #B4886B;
+    font-weight: bold;
+    display: block;
+} 
+
+fieldset { border: 1px solid #33FFE9; width: 400px; background: #FFE8EF; padding: 3px; } fieldset legend { background: #33FFE9; padding: 6px; font-weight: bold; }

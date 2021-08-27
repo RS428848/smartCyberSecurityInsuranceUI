@@ -1,0 +1,10 @@
+label {
+    cursor: default;
+    float: left;
+    width: 140px;
+    color: #B4886B;
+    font-weight: bold;
+    display: block;
+} 
+
+fieldset { border: 1px solid #CCA383; width: 400px; background: #FFE8EF; padding: 3px; } fieldset legend { background: #CCA383; padding: 6px; font-weight: bold; }
